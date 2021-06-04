@@ -1,6 +1,7 @@
 # Proyecto-de-Bases-de-datos
 Proyecto* Final de Bases de datos (BD). 
-Objetivo: crear una BD relacional para una red de tiendas que cuenta con modalidad en línea y física. Los requerimientos se encuentran en la carpeta de documentos (Enunciado.pdf)
+
+Objetivo: crear una BD relacional para una PYME que cuenta con establecimiento en línea y física. Los requerimientos se encuentran en la carpeta de documentos (Enunciado.pdf)
 
 Este repositorio contiene:
 - Enunciado del problema
